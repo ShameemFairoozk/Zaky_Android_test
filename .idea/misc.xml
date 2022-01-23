@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DELL/StudioProjects/Zaky_Android_test/app/src/main/res/drawable-v24/button_background_gradient.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/DELL/StudioProjects/Zaky_Android_test/app/src/main/res/drawable-v24/ic_favorite_black_24dp.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/DELL/StudioProjects/Zaky_Android_test/app/src/main/res/drawable-v24/ic_favorite_border_black_24dp.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/DELL/StudioProjects/Zaky_Android_test/app/src/main/res/drawable-v24/offer_red_background.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/DELL/StudioProjects/Zaky_Android_test/app/src/main/res/drawable-v24/plus_icon.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/DELL/StudioProjects/Zaky_Android_test/app/src/main/res/drawable-v24/rectaclered.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/DELL/StudioProjects/Zaky_Android_test/app/src/main/res/drawable-v24/rounder_adapter_background.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/DELL/StudioProjects/Zaky_Android_test/app/src/main/res/drawable-v24/rounder_adapter_background2.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/DELL/StudioProjects/Zaky_Android_test/app/src/main/res/drawable-v24/strikethrough_foreground.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/DELL/StudioProjects/Zaky_Android_test/app/src/main/res/drawable-v24/sub_button.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/DELL/StudioProjects/Zaky_Android_test/app/src/main/res/drawable/background_nothing.xml" value="0.14322916666666666" />
+        <entry key="..\:/Users/DELL/StudioProjects/Zaky_Android_test/app/src/main/res/drawable/background_unselected.xml" value="0.14322916666666666" />
+        <entry key="..\:/Users/DELL/StudioProjects/Zaky_Android_test/app/src/main/res/layout/activity_main.xml" value="0.136" />
+        <entry key="..\:/Users/DELL/StudioProjects/Zaky_Android_test/app/src/main/res/layout/category_adapter.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/DELL/StudioProjects/Zaky_Android_test/app/src/main/res/layout/item_list_adapter.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/DELL/StudioProjects/Zaky_Android_test/app/src/main/res/layout/sub_catgory_adapter.xml" value="0.12708333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
