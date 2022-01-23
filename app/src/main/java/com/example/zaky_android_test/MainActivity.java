@@ -159,7 +159,6 @@ public class MainActivity extends AppCompatActivity{
                 String id=SubCategoryGSs.get(position).getId();
                 subCategoryID=id;
                 CurrentSubCategoryPosition = position;
-                Log.v("dsdbhsd",categoryID+"   "+subCategoryID);
                 int j = 0;
                 for (CategoryGS cat : SubCategoryGSs) {
 
